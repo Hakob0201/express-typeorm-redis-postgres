@@ -1,0 +1,9 @@
+.idea/
+.vscode/
+node_modules/
+build/
+tmp/
+temp/
+.env
+jwtRS256.key
+jwtRS256.key.pub
